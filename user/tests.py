@@ -1,3 +1,3 @@
-from django.test import TestCase
+dic = {'name':'tom','age':10}
 
-# Create your tests here.
+print(dic.get('hello',-1))
